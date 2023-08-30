@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Navbar part Starts Here */
+
+.logopic {
+    height: 60px;
+    width: 150px;
+}
+
+/* Navbar part Ends Here */
+
+/* Banner Parts Starts Here */
+
+#Banner {
+    height: 80vh;
+}
+
+/* .bannerpic {
+    padding: 200px 0;
+} */
+
+.bannerimg img {
+    height: 770px;
+}
+
+/* Banner Part Ends Here */
+
+/*  Products Parts Starts Here  */
+
+/* Blank */
+
+/*  Products Parts Ends Here   */
+
+/* Promotions Part Starts Here */
+
+.promoimg {
+    width: 270px;
+    height: 250px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Promotions part ends here */
+
+/* Top products part starts here */
+
+.box1 {
+    background: url(../dist/Images/girl\ with\ headphone.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 520px;
+}
+
+.box2 {
+    background: url(../dist/Images/Iphone.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 520px;
+}
+
+.box3 {
+    background: url(../dist/Images/smart-speaker-house-control-innovative-technology.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 540px;
+}
+
+.box4 {
+    
+    height: 540px;
+}
+
+/* Top products part Ends here */
+
+/* Featured Product Part Starts here */
+
+.promoimg {
+    width: 270px;
+    height: 250px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Featured Product Part Ends here */
